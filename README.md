@@ -7,7 +7,7 @@
   Experiência em manipulação de medicamentos quimioterápicos, gestão de estoque e atendimento em farmácia hospitalar.
   Atualmente, em transição de carreira para a área de tecnologia, com foco em desenvolvimento front-end.
   Motivado por novos desafios e pela paixão por tecnologia.
-  Busca por um ambiente de trabalho dinâmico e inovador.
+  Busco por um ambiente de trabalho dinâmico e inovador.
 
 - 🌱 Habilidades e Competências:
   
