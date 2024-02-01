@@ -24,7 +24,7 @@
   
 - 💪 Objetivos:
   
-  Obter uma oportunidade na área de desenvolvimento front-end para aplicar os conhecimentos adquiridos e contribuir para o crescimento de uma empresa.
+  Alcançar uma oportunidade na área de desenvolvimento front-end para aplicar os conhecimentos adquiridos e contribuir para o crescimento de uma empresa.
   Participação em projetos colaborativos em plataformas online.
   Desenvolvimento de um portfólio online com projetos pessoais.
   
