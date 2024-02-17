@@ -11,7 +11,7 @@
 
 - 🌱 Habilidades e Competências:
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,powershell,vscode,devto,discord,figma,netlify&perline=12)](https://skillicons.dev)
   
   Frameworks: Em processo de aprendizagem de ReactJS.
   Metodologias: Agile, Scrum.
@@ -35,6 +35,8 @@
   LinkedIn: <https://www.linkedin.com/in/leonardo-hansen-laranja-970382a6/>
   
   Portfólio: <https://github.com/LeoLaranja>
+  
+  Meu Link: <https://leonardolaranja.netlify.app/>
 
    [![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,github)](https://skillicons.dev)
 
