@@ -1,4 +1,4 @@
-- 👋 Olá Mundo, sou Leonardo Hansen Laranja, 36 anos, casado, uma filha.
+## 👋 Olá Mundo, sou Leonardo Hansen Laranja, 36 anos, casado, uma filha.
   
 - 📚 Formação e Experiência:
   
@@ -40,7 +40,7 @@
   Acredito que a tecnologia tem o potencial de transformar o mundo e quero fazer parte dessa mudança.   
   Sou dedicado, proativo e tenho grande capacidade de aprendizado.  
 
-
+## GitHub Stats
 <div>
 <a href="https://github.com/LeoLaranja">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLaranja&layout=compact&langs_count=7&theme=dracula"/>
