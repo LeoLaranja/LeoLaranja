@@ -27,13 +27,12 @@
   Desenvolvimento de um portfólio online com projetos pessoais.  
   
 - 📫 Contato:
-  
-  E-mail: <leolaranja55@hotmail.com>    
-  LinkedIn: <https://www.linkedin.com/in/leonardo-hansen-laranja-970382a6/>    
-  Portfólio: <https://github.com/LeoLaranja>    
-  Meu Link: <https://leonardolaranja.netlify.app/>
-  
-   [![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,github)](https://skillicons.dev)  
+<div>
+<a href = "mailto:leolaranja55@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/leonardo-hansen-laranja-970382a6/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://github.com/LeoLaranja" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
+<a href="https://leonardolaranja.netlify.app/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>   
+</div>
 
 - ⚡ Sobre mim:
   
