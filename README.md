@@ -39,3 +39,10 @@
   Sou apaixonado por tecnologia e inovação. Busco constantemente novos desafios e aprendizados.   
   Acredito que a tecnologia tem o potencial de transformar o mundo e quero fazer parte dessa mudança.   
   Sou dedicado, proativo e tenho grande capacidade de aprendizado.  
+
+
+<div>
+<a href="https://github.com/LeoLaranja">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLaranja&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoLaranja&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
