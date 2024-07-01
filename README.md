@@ -41,8 +41,8 @@
   Sou dedicado, proativo e tenho grande capacidade de aprendizado.  
 
 ## GitHub Stats
-<div>
-<a href="https://github.com/LeoLaranja">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLaranja&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoLaranja&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoLaranja&show_icons=true&theme=radical)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLaranja&layout=compact)](https://github.com/LeoLaranja/github-readme-stats)
