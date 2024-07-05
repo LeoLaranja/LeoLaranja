@@ -9,7 +9,7 @@
 
 - 🌱 Habilidades e Competências:
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,powershell,vscode,devto,discord,figma,netlify&perline=12)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,devto,discord,figma,netlify&perline=12)](https://skillicons.dev)
   
   Frameworks: Em processo de aprendizagem de ReactJS.  
   Metodologias: Agile, Scrum.  
